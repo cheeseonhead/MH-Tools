@@ -1,14 +1,14 @@
 var BOOKMARKLET_URLS = {
-  analyzer: "src/bookmarklet/bm-analyzer.min.js",
-  crafting: "src/bookmarklet/bm-crafting.min.js",
-  cre: "src/bookmarklet/bm-cre.min.js",
-  crown: "src/bookmarklet/bm-crown.min.js",
-  loader: "src/bookmarklet/bm-loader.min.js",
-  map: "src/bookmarklet/bm-map.min.js",
-  menu: "src/bookmarklet/bm-menu.min.js",
-  powers: "src/bookmarklet/bm-powers.min.js",
-  setup_fields: "src/bookmarklet/bm-setup-fields.min.js",
-  setup_items: "src/bookmarklet/bm-setup-items.min.js"
+  analyzer: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-analyzer.min.js",
+  crafting: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-crafting.min.js",
+  cre: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-cre.min.js",
+  crown: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-crown.min.js",
+  loader: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-loader.min.js",
+  map: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-map.min.js",
+  menu: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-menu.min.js",
+  powers: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-powers.min.js",
+  setup_fields: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-setup-fields.min.js",
+  setup_items: "https://tsitu.github.io/MH-Tools/src/bookmarklet/bm-setup-items.min.js"
 };
 
 /**

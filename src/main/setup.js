@@ -23,7 +23,7 @@ $(window).load(function() {
   loadItemSelection(baseKeys, "base");
   loadItemSelection(charmKeys, "charm");
 
-  startPopulationLoad("data/json/populations-cre-setup.json", user);
+  startPopulationLoad("https://tsitu.github.io/MH-Tools/data/json/populations-cre-setup.json", user);
   loadCharmDropdown();
   $("#main").show();
 
